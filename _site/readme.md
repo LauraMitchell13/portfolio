@@ -1,6 +1,6 @@
-<h1>IXD-301</h1>
+# IXD-301
 
-<h2>Deliverable 1- Portfolio Website</h2>
+## Deliverable 1- Portfolio Website
 
 - [Style Tile](http://martinemcgrath.github.io/portfolio/images/portfolio-style-tile.png) - A Style tile to comunicate what I wanted my site to look like and elements to include.
 
