@@ -4,4 +4,4 @@
 
 All the above files show how I have used includes and layouts to structure my portfolio website using jekyll. 
 
-- [Jekyll Site](http://martinemcgrath.github.io/portfolio/index.html) 
+- [Jekyll Site](http://martinemcgrath.github.io/portfolio/index.html) (css not linked)
